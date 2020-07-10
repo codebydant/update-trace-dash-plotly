@@ -30,7 +30,6 @@ app.layout = html.Div([
     dash_update_data_components.EditableGraph(id = 'ii', aim = 'mainGraph'),
 ])
 
-# Callback button: change color
 @app.callback(dash.dependencies.Output(component_id='ii', component_property='data'),             
              [dash.dependencies.Input(component_id='mainGraph', component_property='figure')])
 def update_graph(fig):
