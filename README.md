@@ -55,5 +55,5 @@ if __name__ == '__main__':
         $ python usage.py
         ```
 
-<img src="update-traces.gif" align="center" height="400" width="600"><br>
+<img src="update-traces.gif" align="center" height="350" width="800"><br>
 
