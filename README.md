@@ -55,4 +55,5 @@ if __name__ == '__main__':
         $ python usage.py
         ```
 
+<img src="example.png" align="center" height="600" width="900"><br>
 
