@@ -1,0 +1,41 @@
+{
+  "src/lib/components/EditableGraph.react.js": {
+    "description": "It takes a for-loop to delete multiples traces, and\r\nthen append the new ones.",
+    "displayName": "EditableGraph",
+    "methods": [],
+    "props": {
+      "id": {
+        "type": {
+          "name": "string"
+        },
+        "required": true,
+        "description": "The ID used to identify this component in Dash callbacks."
+      },
+      "aim": {
+        "type": {
+          "name": "string"
+        },
+        "required": true,
+        "description": "The ID used in the dcc.Graph to modify."
+      },
+      "data": {
+        "type": {
+          "name": "array"
+        },
+        "required": false,
+        "description": "A list of dic with the data to update",
+        "defaultValue": {
+          "value": "{disable:'yes'}",
+          "computed": false
+        }
+      },
+      "style": {
+        "type": {
+          "name": "object"
+        },
+        "required": false,
+        "description": "A object with the data style"
+      }
+    }
+  }
+}

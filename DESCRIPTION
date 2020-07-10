@@ -1,0 +1,15 @@
+Package: dashUpdateDataComponents
+Title: This is a library to update multiples traces in one graph using dash plotly in python
+Version: 0.0.1
+Authors @R: as.person(c(daniel tobon c <daniel.tobon@uao.edu.co>))
+Description: This is a library to update multiples traces in one graph using dash plotly in python
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: GPL-3.0 + file LICENSE
+URL: https://github.com/https://github.com/danielTobon43/update-trace-dash-plotly/dash-update-data-components
+BugReports: https://github.com/https://github.com/danielTobon43/update-trace-dash-plotly/dash-update-data-components/issues
+Encoding: UTF-8
+LazyData: true
+Author: daniel tobon c [aut]
+Maintainer: daniel tobon c <daniel.tobon@uao.edu.co>
