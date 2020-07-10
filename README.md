@@ -1,5 +1,5 @@
-# Custom Dash Core Components - update traces
-This is a library to update multiples traces in one graph using dash plotly in python. This code is based from the "mydcc.Change_trace", repo: https://github.com/jimmybow/mydcc 
+# Custom Dash Component - update data in dcc.Graph
+This is a library to update multiples traces in a dcc.Graph using dash plotly in python. This code is based from the "mydcc.Change_trace", repo: https://github.com/jimmybow/mydcc 
 
 ## Installation: 
     1. installing:
