@@ -1,4 +1,4 @@
-# Custom Dash Component - update data in dcc.Graph
+# Dash Component - update trace in dcc.Graph
 This is a library to update multiples traces in a dcc.Graph using dash plotly in python. This code is based from the "mydcc.Change_trace", repo: https://github.com/jimmybow/mydcc. The idea is to update a trace or a list of traces in a callback without the need of re-draw the figure (you don't need a layout component).<br/> <br/>
 
 **Multiple callbacks with the same output**: This custom component allow you to update the data in the same graph using multiple callbacks (you can't have the same output in two callbacks with dash). 
