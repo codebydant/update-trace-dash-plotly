@@ -21,7 +21,7 @@
     "build": "npm run build:js && npm run build:py_and_r",
     "build:activated": "npm run build:js && npm run build:py_and_r-activated"
   },
-  "author": "daniel tobon c <daniel.tobon@uao.edu.co>",
+  "author": "daniel t",
   "license": "GPL-3.0",
   "dependencies": {
     "ramda": "^0.26.1"
